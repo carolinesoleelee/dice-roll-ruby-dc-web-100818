@@ -7,7 +7,7 @@ describe "#roll" do
   end
 
 def roll
-  puts "rand(1..7)" 
+  puts = "rand(1..7)" 
 end
 
   it "should return a number greater than 0" do
